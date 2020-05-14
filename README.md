@@ -1,6 +1,6 @@
-# deliveryorder
+# Delivery Order Todo List
 
-A new Flutter project.
+Sebuah Aplikasi karena kegabutan selama PSBB di bekasi.
 
 ## Getting Started
 
